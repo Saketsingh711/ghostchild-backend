@@ -23,7 +23,6 @@ Once the backend is running, go to:
 👉 [ghostchild.tsukicloud.online](https://ghostchild.tsukicloud.online/)
 
 Upload the following files:
-
   Enrollment CSV
-  
   Biometric CSV
+(when you upload a file it will push a popup on the website to access the networ(backend), it is necessary to allow it)
