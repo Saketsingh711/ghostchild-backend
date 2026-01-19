@@ -1,6 +1,6 @@
 # 🚀 Backend Setup Instructions
 
-It is **mandatory** to run the backend locally on your system before proceeding.
+It is **mandatory** to run the backend locally on your system before proceeding even if you are not hosting the website locally.
 
 ## Steps to Run the Backend
 
