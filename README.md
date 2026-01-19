@@ -20,8 +20,8 @@ It is **mandatory** to run the backend locally on your system before proceeding.
 
 Next Steps
 Once the backend is running, go to:
-👉 ghostchild.tsukicloud.online
-
+👉 [ghostchild.tsukicloud.online
+](https://ghostchild.tsukicloud.online/)
 Upload the following files:
 
   Enrollment CSV
